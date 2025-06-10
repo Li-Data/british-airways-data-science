@@ -74,7 +74,7 @@ The main goals of the project are to:
 
 ## Insights and Analysis
 
-![confusion_matrix](visaualisations/confusion_matrix.png)  
+![confusion_matrix](visualisations/confusion_matrix.png)  
 *Confusion Matrix showcasing model performance*
 
 ![roc_curve](visualisations/roc_curve.png)  
